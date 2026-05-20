@@ -1,0 +1,45 @@
+📊 Implementasi Interpolasi Newton Divided Difference
+Deskripsi
+Project ini membahas implementasi metode Interpolasi Newton Divided Difference untuk melakukan pendekatan nilai fungsi pada titik tertentu menggunakan data numerik yang tersedia.
+Metode Newton digunakan untuk membentuk polinom interpolasi melalui tabel divided difference sehingga nilai fungsi yang belum diketahui dapat diperkirakan secara numerik.
+
+Data
+| x | f(x) |
+|---|---|
+| 0.2 | 0.198669 |
+| 0.4 | 0.389418 |
+| 0.6 | 0.564642 |
+| 0.8 | 0.717356 |
+
+Target:
+f(0.5)
+
+Hasil pendekatan:
+f(0.5) ≈ 0.479426
+
+Metode yang Digunakan
+- Interpolasi Newton Divided Difference
+- Polinom Interpolasi Newton
+- Pendekatan nilai fungsi numerik
+- Microsoft Excel
+
+Hasil
+Metode berhasil digunakan untuk menghitung pendekatan nilai fungsi secara numerik dengan hasil yang mendekati nilai sebenarnya berdasarkan data yang tersedia.
+
+Tujuan Project
+- Memahami konsep interpolasi numerik
+- Mempelajari metode Newton Divided Difference
+- Mengimplementasikan pendekatan fungsi menggunakan Excel
+- Melatih analisis perhitungan numerik
+
+Insight
+Interpolasi Newton mempermudah proses pendekatan nilai fungsi karena polinom dapat dibangun secara bertahap menggunakan tabel divided difference.
+
+Tools
+- Microsoft Excel
+- Metode Numerik
+
+Penutup
+Project ini merupakan latihan implementasi metode numerik untuk memahami proses interpolasi dan pendekatan nilai fungsi secara sistematis dan aplikatif.
+
+#MetodeNumerik #InterpolasiNewton #Excel #NumericalMethod
